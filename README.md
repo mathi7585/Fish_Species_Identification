@@ -1,5 +1,4 @@
-Fish Species Identification System
-This project utilizes advanced computer vision techniques to identify fish species from images or video feeds. The system leverages the YOLO (You Only Look Once) object detection framework and a TensorFlow-based classification model to perform fish species detection and classification.
+Fish Species Identification System utilizes advanced computer vision techniques to identify fish species from images or video feeds. The system leverages the YOLO (You Only Look Once) object detection framework and a TensorFlow-based classification model to perform fish species detection and classification.
 
 Features
 YOLOv8 Integration: Efficient object detection for identifying fish in input images.
