@@ -9,3 +9,4 @@ Computer Vision: Employs OpenCV for image preprocessing and visualization.
 Prerequisites
 Python 3.8+
 Required libraries: torch, ultralytics, tensorflow, opencv-python, numpy, twilio.
+
