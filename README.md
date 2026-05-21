@@ -1,7 +1,6 @@
 # 🐟 Fish_Species_Identification
 
 Fish_Species_Identification is a robust system that leverages cutting-edge computer vision to identify fish species from images or video feeds. By integrating the YOLO (You Only Look Once) object detection framework with a TensorFlow-based classification model, this project enables accurate and efficient fish species detection and classification — ideal for researchers, conservationists, and fisheries management.
-
 ---
 
 ## 🚀 Features
